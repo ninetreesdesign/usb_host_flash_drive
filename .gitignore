@@ -1,0 +1,8 @@
+# OS cruft
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Archives
+*.zip
+
